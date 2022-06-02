@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.myphoto {
+    border-radius: 50%;
+    margin: 50px;
+}
+
+.awe {
+    list-style: none;
+}
+
+.form1 {
+    margin: 20px;
+    padding: 10px;
+}
+
+.list1 {
+    margin: 20px;
+    padding: 20px;
+}
